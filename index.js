@@ -1,6 +1,5 @@
-const { VERSION } = require(__dirname + '/config')
 const start = async () => {
-    Debug.info(`Suhail ${VERSION}`)
+    Debug.info(`Byte ${VERSION}`)
   try {
     await bot.init()
     bot.logger.info('⏳ Database syncing!')
