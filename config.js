@@ -27,7 +27,7 @@ global.website= process.env.GURL|| "https://whatsapp.com/channel/0029VaNRcHSJP21
 
 global.devs = "923072380380" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923072380380,923367668442";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923072380380,923453800380,923039981546,923157241836";
 
 
 
